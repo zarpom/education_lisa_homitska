@@ -15,12 +15,20 @@ public class BubbleSorting {
                 count++;
             }
         }
+//////dfdfdfdfdfdfdfdf
 
         System.out.println(count);
         System.out.println();
         for (int number : n) {
-            System.out.print(number + " ");
+            System.out.print(number + "\n");
         }
+
+
+
+        System.out.println("Україна має гривню");
+
+        int kik = 1;
+        boolean lil = true;
     }
 }
 
