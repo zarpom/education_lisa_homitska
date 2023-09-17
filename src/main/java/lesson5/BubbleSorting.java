@@ -12,7 +12,6 @@ public class BubbleSorting {
                     n[j] = n[j + 1];
                     n[j + 1] = temp;
                 }
-                count++;
             }
         }
 //////dfdfdfdfdfdfdfdf
